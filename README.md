@@ -28,11 +28,6 @@ Developing an AI system for intelligent camera decision-making. The system inclu
 - Python and Jupyter for the machine learning models.
 - Web browser for accessing the frontend.
 
-### Installation
-
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
-2. Install the required dependencies.
-
 ## Usage
 
 1. Run the Face Recognition System using the provided Python scripts or notebooks.
